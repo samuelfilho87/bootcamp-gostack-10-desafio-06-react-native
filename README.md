@@ -62,4 +62,4 @@ Exemplo de código:
 
 Resultado:
 
-![WebView](.github/exemplo-web-view.png)
+![WebView](https://raw.githubusercontent.com/Rocketseat/bootcamp-gostack-desafio-06/master/.github/exemplo-web-view.png)
